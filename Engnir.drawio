@@ -346,7 +346,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OkYFeB2vheiwVgL19egd-24" value="Class Diagram" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1240" y="85" width="760" height="760" as="geometry" />
+          <mxGeometry x="1240" y="80" width="760" height="760" as="geometry" />
         </mxCell>
         <mxCell id="9av8Nk6v7k9wTibEPxla-13" value="" style="group" vertex="1" connectable="0" parent="OkYFeB2vheiwVgL19egd-24">
           <mxGeometry x="115" y="75" width="530" height="610" as="geometry" />
