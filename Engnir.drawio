@@ -130,7 +130,7 @@
         <mxCell id="OkYFeB2vheiwVgL19egd-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="OkYFeB2vheiwVgL19egd-74" source="2e49270ec7c68f3f-9" target="OkYFeB2vheiwVgL19egd-293" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="810" y="722" />
+              <mxPoint x="810" y="721" />
               <mxPoint x="810" y="585" />
             </Array>
           </mxGeometry>
