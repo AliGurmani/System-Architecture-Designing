@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Central Authentication System" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="2593" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1896" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,7 +162,7 @@
         <mxCell id="2e49270ec7c68f3f-18" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;html=1;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" parent="2e49270ec7c68f3f-17" vertex="1" connectable="0">
           <mxGeometry width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="OkYFeB2vheiwVgL19egd-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;startArrow=none;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="OkYFeB2vheiwVgL19egd-74" source="2e49270ec7c68f3f-81" target="DWj6wrxBcN8LQPvx8Y1o-2" edge="1">
+        <mxCell id="OkYFeB2vheiwVgL19egd-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;startArrow=none;startFill=0;exitX=1.002;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;" parent="OkYFeB2vheiwVgL19egd-74" source="2e49270ec7c68f3f-81" target="DWj6wrxBcN8LQPvx8Y1o-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OkYFeB2vheiwVgL19egd-98" value="user_roles" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fillColor=#E0E0E0;" parent="OkYFeB2vheiwVgL19egd-74" vertex="1">
@@ -207,11 +207,11 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OkYFeB2vheiwVgL19egd-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;" parent="OkYFeB2vheiwVgL19egd-74" target="OkYFeB2vheiwVgL19egd-215" edge="1">
+        <mxCell id="OkYFeB2vheiwVgL19egd-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;exitX=0.998;exitY=0.356;exitDx=0;exitDy=0;exitPerimeter=0;" parent="OkYFeB2vheiwVgL19egd-74" target="OkYFeB2vheiwVgL19egd-215" edge="1" source="2e49270ec7c68f3f-81">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="210" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="300" y="210" />
+              <mxPoint x="300" y="217" />
               <mxPoint x="300" y="145" />
             </Array>
           </mxGeometry>
