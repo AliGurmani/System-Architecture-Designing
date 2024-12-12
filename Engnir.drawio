@@ -233,9 +233,8 @@
         <mxCell id="OkYFeB2vheiwVgL19egd-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="OkYFeB2vheiwVgL19egd-74" source="OkYFeB2vheiwVgL19egd-234" target="OkYFeB2vheiwVgL19egd-290" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="550" y="321" />
-              <mxPoint x="550" y="538" />
-              <mxPoint x="600" y="538" />
+              <mxPoint x="570" y="321" />
+              <mxPoint x="570" y="555" />
             </Array>
           </mxGeometry>
         </mxCell>
